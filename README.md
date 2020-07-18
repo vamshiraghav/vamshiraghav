@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**vamshiraghav/vamshiraghav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... vamshiraghava@gmail.com
 - 😄 Pronouns: ... Dexter
 - ⚡ Fun fact: ... If you love anything , nobody can stop you from learning.
--->
+
